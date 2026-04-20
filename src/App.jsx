@@ -128,7 +128,7 @@ function App() {
           
           <Box sx={{ textAlign: 'center', color: '#fff' }}>
             <Typography variant="body1" sx={{ opacity: 0.9 }}>
-              <strong>Full Name:</strong> Angenoise D. Pacleb
+              <strong>Full Name:</strong> Mark Angelo Dela Cruz
             </Typography>
             <Typography variant="body1" sx={{ opacity: 0.9 }}>
               <strong>Subject:</strong> CMSC 100 - Web Development
