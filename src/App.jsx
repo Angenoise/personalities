@@ -130,11 +130,11 @@ function App() {
             <Typography variant="body1" sx={{ opacity: 0.9 }}>
               <strong>Full Name:</strong> Mark Angelo Dela Cruz
             </Typography>
-            <Typography variant="body1" sx={{ opacity: 0.9 }}>
-              <strong>Subject:</strong> CMSC 100 - Web Development
+           <Typography variant="body1" sx={{ opacity: 0.9 }}>
+              <strong>Subject:</strong> C-PEITEL3
             </Typography>
             <Typography variant="body1" sx={{ opacity: 0.9 }}>
-              <strong>Section:</strong> BSCS 2-1
+              <strong>Section:</strong> BSIT - 3A
             </Typography>
           </Box>
         </Paper>
